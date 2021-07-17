@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">ActivityLifeCycle</string>
+    <string name="guess_hint_text">Enter guess</string>
+    <string name="button_next">Next</string>
+    <string name="back_button">BACK</string>
+</resources>
